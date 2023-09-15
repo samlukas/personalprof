@@ -51,7 +51,7 @@
   }
   .timeline-middle {
     position: relative;
-    background-image: linear-gradient(45deg, #FBFFEA, #E0FF9F, #D6FF5A);
+    background-image: linear-gradient(45deg, #4b541e, #6D712E, #3D441E);
     width: 3px;
     height: 100%;
   }
@@ -65,7 +65,7 @@
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    background-image: linear-gradient(45deg, #D6FF5A, #A6E83A, #89CB09);
+    background-image: linear-gradient(45deg, #dad9d2, #A2A569, #737B4C);
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
   }
